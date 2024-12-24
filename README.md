@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youzi-1999
-- 👀 I’m interested in coding, cooking, 
+- 👀 I’m interested in coding, cooking, photograpy, balabala...
 - 🌱 I’m currently learning fond-end related technology
 
 <!---
